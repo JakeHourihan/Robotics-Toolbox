@@ -56,5 +56,4 @@ app = Application()
 app.master.title('RCI v' + "0.00")
 app.mainloop()    
 
-#why am i stupid
-
+#why am i stupidß
